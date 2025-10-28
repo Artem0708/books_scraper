@@ -26,3 +26,5 @@
 -   beautifulsoup4
 -   schedule
 -   pytest (для тестов)
+
+## Демонстрация Pull Request
